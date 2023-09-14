@@ -45,6 +45,7 @@ section {
     line-height: 2.5em;
     padding-left: 30px;
     box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.452);
+    font-size: clamp(1em, 1em + 1vw, 1.5em);
 }
 
 .normal{
